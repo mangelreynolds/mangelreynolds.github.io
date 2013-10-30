@@ -1,3 +1,11 @@
+div: header {
+	max-width: 100%;
+	position: absolute;
+	margin:left 20px;
+}
+
+ 
+
 section {
 	width: 60%;
 	float:left;
@@ -6,7 +14,7 @@ section {
 
 aside {
 	width:30%;
-	float:left;
+	float:right;
 }
 
 img {
