@@ -1,7 +1,16 @@
-section {width 
+section {
+	width: 60%;
+	float:left;
 
+}
+
+aside {
+	width:30%;
+	float:left;
 }
 
 img {
 	width:200px;
+
 }
+
