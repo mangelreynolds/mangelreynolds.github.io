@@ -1,7 +1,13 @@
-div: header {
-	max-width: 100%;
+
+
+div#header {
+	width: 100%;
 	position: absolute;
-	margin:left 20px;
+	margin:left 0px;
+	height:200px;
+	background-color: #203B78;
+	overflow:scroll;
+
 }
 
  
