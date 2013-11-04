@@ -1,8 +1,9 @@
 header {
   position: relative;
   float: 200px
-  left:25px;
+  left:0px;
   right: 25px;
+  background-color: #488AC7
 }
 
 ul
