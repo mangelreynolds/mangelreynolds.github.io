@@ -1,8 +1,8 @@
 
 
 div#header {
-	width: 100%;
-	position: re;
+	width: 80%;
+	position: relative;
 	margin:left 200px;
 	height:200px;
 	background-color: #203B78;
@@ -10,19 +10,19 @@ div#header {
 
 }
 div#wrapper {
-	border-width: 50%
+	
 }
 
  
 
 section {
-	width: 20%;
+	width: 50%;
 	float:left;
 
 }
 
 aside {
-	width:30%;
+	width:50%;
 	float:right;
 }
 
