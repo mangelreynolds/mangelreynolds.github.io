@@ -2,13 +2,14 @@
 
 div#header {
 	width: 100%;
-	position: absolute;
+	position: RELATIVE;
 	margin:left 200px;
 	height:200px;
 	background-color: #203B78;
 	overflow:scroll;
 
 }
+
 
  
 
