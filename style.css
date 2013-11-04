@@ -3,21 +3,24 @@
 div #header {
 	width: 100%;
 	position: relative;
-	margin:left 100px;
+	margin:left 0px;
 	height:150px;
 	background-color: #203B78;
-	overflow:scroll;
+	overflow:;
 
+}
 
 section {
-	width: 50%;
 	float:left;
+	width: 50%;
+	margin:15px;
 
 }
 
 aside {
 	width:50%;
 	float:right;
+	margin:15px;
 }
 
 img {
