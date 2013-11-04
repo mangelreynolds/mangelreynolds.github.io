@@ -1,6 +1,6 @@
 
 
-div#header {
+div id#header {
 	width: 100%;
 	position: relative;
 	margin:left 100px;
@@ -8,27 +8,6 @@ div#header {
 	background-color: #203B78;
 	overflow:scroll;
 
-}
-body
-{
-background 
-background-image:"Sunset-Sea-Nature-l.jpg" ;
-}
-h1
-{
-color:orange;
-text-align:center;
-}
-p
-{
-font-family:"Times New Roman";
-font-size:20px;
-}
-
-	
-}
-
- 
 
 section {
 	width: 50%;
