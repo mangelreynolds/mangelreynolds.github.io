@@ -1,5 +1,8 @@
 header {
   position: relative;
+  float: 200px
+  left:25px;
+  right: 25px;
 }
 
 ul
