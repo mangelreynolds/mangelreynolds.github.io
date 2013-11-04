@@ -1,12 +1,11 @@
-
-
-div #header {
-	width: 100%;
-	position: relative;
-	margin:left 0px;
-	height:150px;
-	background-color: #203B78;
-	overflow:;
+header {
+  position: relative;
+}
+ul {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
 
 }
 
