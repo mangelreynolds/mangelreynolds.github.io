@@ -1,8 +1,10 @@
 header {
+
+	h1 text-align:center;}
 height:150px;
   position: relative;
   padding-left: 40px
-  left:-50px;
+  
   right: 40px;
   background-color: #488AC7
 }
@@ -17,20 +19,20 @@ margin:15;
 padding:0;
 position:relative;
 right:10px
-top:10px;
+top:0px;
 }
 
 section {
 	float:left;
 	width: 50%;
-	margin:0px;
+	margin:10px;
 
 }
 
 aside {
 	width:50%;
 	float:right;
-	margin:0px;
+	margin:10px;
 }
 
 img {
