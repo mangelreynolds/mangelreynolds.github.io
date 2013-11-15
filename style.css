@@ -1,43 +1,35 @@
-header {
-
-	
-height:155px;
+header {	 
+  height:155px;
   position: relative;
   padding-left: 15px; 
   padding-right: 15px;
   background-color:#488AC7;
   text-align:center;
-
 }
+
 #header h1 {
-
   margin:50px 0 0 0;
-
-  color:#000;}
- 
+  color:#000; 
 }
+
 body {
-	background-color: #E0FFFF
+	background-color: #E0FFFF;
 }
 
-ul
-{
-
-display:inline;
-
-list-style-type:none;
-margin:15;
-padding:0;
-position:relative;
-right:10px
-top:0px;
+ul {
+  display:inline;
+  list-style-type:none;
+  margin:15;
+  padding:0;
+  position:relative;
+  right:10px
+  top:0px;
 }
 
 section {
 	float:left;
 	width: 50%;
 	margin:10px;
-
 }
 
 aside {
@@ -49,8 +41,6 @@ aside {
 img {
 	width:300px;
 	padding:60px;
-
-}
 }
 
 
