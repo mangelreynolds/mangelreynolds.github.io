@@ -7,14 +7,66 @@ header {
   text-align:center;
 }
 
-#header h1 {
-  margin:50px 0 0 0;
-  color:#000; 
+#logo a {
+  font-family: 'Pacifico', cursive;
+  font-size: 48px; 
+  color:#444444;
+  line-height: 58px;
+  overflow: hidden;
+  text-shadow: 1px 1px 0px #ffffff;
+
+}
+
+#logo span {line-height: 85px}
+
+#header {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width:100%;
+
+}
+#header td {
+  vertical-align: middle;
+  text-align: left;
+
+}
+
+#logo {
+  float:left;
+  max-width: 400px;
+
 }
 
 body {
 	background-color: #E0FFFF;
+  font-family: 'papirus', sans-serif;
+  background: #555;
+  line-height: 24px;
+
 }
+
+.container {
+  margin:0 auto;
+  width: 940px;
+}
+
+#page-wrap {
+  background:url (bodybg.jpg)repeat;
+  border-top:1px solid #e6e6e6;
+  padding:27px 0px 20px;
+    
+
+    #nav-wrap .container {
+      clear:both;
+      overflow: hidden;
+      position: relative;
+      padding-bottom:35px;
+      margin-bottom: 40px;
+      background: (separator.png) no-repeat bottom left; 
+      
+    }
+
+   
 
 ul {
   display:inline;
@@ -42,6 +94,8 @@ img {
 	width:300px;
 	padding:60px;
 }
+
+
 
 
 
