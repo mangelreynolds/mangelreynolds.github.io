@@ -32,7 +32,8 @@ aside {
 img {
 	width:200px;
 	padding:60px;
-  border:1px;
+  border-style:dashed;
+  border-width:1px;
 }
 
 
