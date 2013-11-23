@@ -4,11 +4,11 @@ header{
 }
 
 body{
-  background-image:"assets/Sunset-Sea-Nature-l.jpg";
+  background-image src:"assets/Sunset-Sea-Nature-l.jpg";
   background-repeat:no-repeat;
   background-position: center;
   background-size: cover;
-  
+
 }
 #logo {
   font-family:"Angelina";
