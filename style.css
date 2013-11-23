@@ -1,91 +1,30 @@
-header {	 
-  height:155px;
-  position: repeat;
-  padding-left: 15px; 
-  padding-right: 15px;
-  background-color:#488AC7;
-  text-align:center;
-}
 
-#logo a {
-  font-family: 'Pacifico', cursive;
+#logo {
+  font-family:"Arial";
   font-size: 48px; 
   color:#444444;
   line-height: 58px;
   overflow: hidden;
   text-shadow: 1px 1px 0px #ffffff;
-
-}
-
-#logo span {line-height: 85px}
-
-#header {
-  border-collapse: collapse;
-  border-spacing: 0;
-  width:100%;
-
-}
-#header td {
-  vertical-align: middle;
-  text-align: left;
-
-}
-
-#logo {
   float:left;
   max-width: 400px;
 
 }
 
-body {
-	background-color: #E0FFFF;
-  font-family: 'papirus', sans-serif;
-  background: #555;
-  line-height: 24px;
+#logo span {line-height: 85px}
+
+
+
 
 }
-
-.container {
-  margin:0 auto;
-  width: 940px;
-}
-
-#page-wrap {
-  background:url (bodybg.jpg)repeat;
-  border-top:1px solid #e6e6e6;
-  padding:27px 0px 20px;
-    
-
-    #nav-wrap .container {
-      clear:both;
-      overflow: hidden;
-      position: relative;
-      padding-bottom:35px;
-      margin-bottom: 40px;
-      background: (separator.png) no-repeat bottom left; 
-      
-    }
-
-   
-
-ul {
-  display:inline;
-  list-style-type:none;
-  margin:15;
-  padding:0;
-  position:relative;
-  right:10px
-  top:0px;
-}
-
 section {
-	float:left;
-	width: 50%;
+	float:right;
+	width: 10%;
 	margin:10px;
 }
 
 aside {
-	width:50%;
+	width:40%;
 	float:right;
 	margin:10px;
 }
