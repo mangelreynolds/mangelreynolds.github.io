@@ -3,7 +3,9 @@ header{
   padding-top: 20px;
 }
 
-
+body{
+  background-image:"assets/Sunset-Sea-Nature-l.jpg";
+}
 #logo {
   font-family:"Angelina";
   font-size: 48px; 
