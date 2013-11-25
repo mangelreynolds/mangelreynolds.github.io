@@ -11,7 +11,7 @@ body{
 
 }
 #logo {
-  font-family:"Papyrus";
+  font-family:"Angelina";
   font-size: 48px; 
   color:#43BFC7;
   line-height: 58px;
@@ -36,7 +36,9 @@ body{
   margin:50px;
   text-align: center;
 }
-
+p {
+  font-size: 15px;
+}
 
 
 }
