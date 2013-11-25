@@ -27,18 +27,14 @@ body{
 #core {
   height:120px;
   width:190px;
-  border-radius: 35%;
-  background-color:#ffffff;
+  border-radius: 25%;
+  background-color:#EBF4FA;
   border-color:#43BFC7;
   padding-bottom: 20px;
   border-style: solid;
   border-width:4px;
   margin:50px;
   text-align: center;
-}
-
-#core h3{
-  font-color:#008080;
 }
 
 
